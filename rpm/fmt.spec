@@ -23,9 +23,7 @@ Release:        0
 Summary:        A formatting library for C++
 License:        MIT
 URL:            http://fmtlib.net/
-Source:         https://github.com/fmtlib/fmt/archive/%version.tar.gz
-Source1:        baselibs.conf
-#BuildRequires:  c++_compiler
+Source:         %name-%version.tar.gz
 BuildRequires:  cmake
 BuildRequires:  pkgconfig
 
