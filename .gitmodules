@@ -1,0 +1,4 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://github.com/fmtlib/fmt.git
+	branch = 12.1.0
